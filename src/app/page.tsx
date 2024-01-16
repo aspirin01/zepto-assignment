@@ -137,7 +137,6 @@ export default function Home() {
                   setInputValue("");
                 }
               }}
-              autoFocus={true}
               placeholder="Add new user"
               className=" placeholder-shown:border-blue-gray-200 focus:border-[#699fc9] focus:outline-0 disabled:border-0 disabled:bg-blue-gray-50 m-1"
             />
@@ -198,7 +197,7 @@ export default function Home() {
           <path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C15.09 3.81 16.76 3 18.5 3 21.58 3 24 5.42 24 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"/>
         </svg>
       </span>
-         by Harshit Bhalla</div>
+         by <a target="/blank" href="https://www.linkedin.com/in/harshitbhallaiitd/">Harshit Bhalla</a> </div>
     </div>
   );
 }
