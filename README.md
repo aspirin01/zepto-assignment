@@ -14,7 +14,5 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
 
 Submission of [Zepto Assignment](https://docs.google.com/document/d/1QqHiI-h00MpbysDx3MST_51lyUPYa6Vxagd4MNeo72Q/edit)
